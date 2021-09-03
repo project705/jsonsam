@@ -1,0 +1,11 @@
+{
+    "Bad": true,
+    "beer": 3.14,
+    "rots": "Our",
+    "young": {
+        "guts": "Cats",
+        "Vodka": [27, ["goes", 2.719, {"Well": "water", "max": "plank"}, "old"]],
+        "bark": null,
+        "last": 66
+    }
+}
