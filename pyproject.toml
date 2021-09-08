@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "jsonsam"
-version = "0.1.0"
+version = "0.1.1"
 description = "Tool to facilitate editing, splitting and merging of nested JSON and Python dictionaries"
 authors = ["Eric D. Cohen <os@epieye.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "http://www.epieye.com"
+homepage = "https://github.com/project705/jsonsam"
 keywords = ["json", "split", "merge", "edit"]
 classifiers = [
     "Development Status :: 3 - Alpha",
