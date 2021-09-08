@@ -5,6 +5,7 @@
 The following is a minimal example of the JSONSAM CLI workflow:
 
 ```console
+$ pip install jsonsam
 $ jsonsam my.json
 Make edits to my-denorm.json and then rerun with modified file to generate updated JSON output
 $ vim my-denorm.json 		# Add/delete/edit line-based paths
